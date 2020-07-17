@@ -12,8 +12,10 @@
 음성 모달리티에서 dialogue와 utterance 별 감정과다른 모달리티에서 예측된 감정의 종류와의 관계 분석
 
 ### 연구 진행 과정
+![aa](https://user-images.githubusercontent.com/48430005/87754860-ceba4f00-c840-11ea-9cea-1daca9927003.png)
 
 ### 결과 및 분석
+![bb](https://user-images.githubusercontent.com/48430005/87754864-d1b53f80-c840-11ea-810d-24081557efea.png)
 -3가지 Sentiment(Positive, Neutral, Negative)에 대해 Multi-Modal Sentiment F1-Score가 가장 높게 나오는 것을 확인하였다.
 
 - 한계 및 분석
