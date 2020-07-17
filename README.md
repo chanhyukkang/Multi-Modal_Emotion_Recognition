@@ -16,6 +16,7 @@
 
 ### 결과 및 분석
 ![bb](https://user-images.githubusercontent.com/48430005/87754864-d1b53f80-c840-11ea-810d-24081557efea.png)
+
 -3가지 Sentiment(Positive, Neutral, Negative)에 대해 Multi-Modal Sentiment F1-Score가 가장 높게 나오는 것을 확인하였다.
 
 - 한계 및 분석
