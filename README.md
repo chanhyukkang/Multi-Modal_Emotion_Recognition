@@ -13,6 +13,10 @@
 머신러닝 모델 설계에 대해서도 연구
 음성 모달리티에서 dialogue와 utterance 별 감정과다른 모달리티에서 예측된 감정의 종류와의 관계 분석
 
+### 데이터셋
+드라마 Friends 시즌1~10
+IEMOCAP dataset
+
 ### 연구 진행 과정
 ![aa](https://user-images.githubusercontent.com/48430005/87754860-ceba4f00-c840-11ea-9cea-1daca9927003.png)
 
